@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\koldmi\\.nuget\\packages\\": {}
+    "/Users/koldmi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\university\\с#\\kryukova_math_figures\\kryukova_math_figures\\kryukova_math_figures.csproj",
+      "projectUniqueName": "/Users/koldmi/Desktop/university/с#/kryukova_math_figures/kryukova_math_figures/kryukova_math_figures.csproj",
       "projectName": "kryukova_math_figures",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\university\\с#\\kryukova_math_figures\\kryukova_math_figures\\kryukova_math_figures.csproj",
-      "packagesPath": "C:\\Users\\koldmi\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\university\\с#\\kryukova_math_figures\\kryukova_math_figures\\obj\\",
+      "projectPath": "/Users/koldmi/Desktop/university/с#/kryukova_math_figures/kryukova_math_figures/kryukova_math_figures.csproj",
+      "packagesPath": "/Users/koldmi/.nuget/packages/",
+      "outputPath": "/Users/koldmi/Desktop/university/с#/kryukova_math_figures/kryukova_math_figures/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\koldmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/koldmi/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\x64\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
